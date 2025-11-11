@@ -1,8 +1,8 @@
 package io.github.mariazevedo88.travelsjavaapi.it;
 
-import static org.junit.Assert.assertNotNull;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+import static org.junit.jupiter.api.Assertions.assertNotNull;
 import java.math.BigDecimal;
 import java.text.ParseException;
 import java.time.LocalDate;
